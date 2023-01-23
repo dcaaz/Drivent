@@ -1,6 +1,6 @@
 # Driven.t + TypeScript
 
-> A ideia desse projeto foi simular o mercado de trabalho. Utilizei um codigo já em andamento e realizei altumas alterações!
+> A ideia desse projeto foi simular o mercado de trabalho. Utilizei um codigo já em andamento e realizei algumas alterações!
 
 ## Organização do projeto
 
